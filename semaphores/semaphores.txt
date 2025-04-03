@@ -1,0 +1,11 @@
+# ./semaphores
+First process.
+(1) Previous value: 0
+(1) Result: 33
+Second process.
+(2) Previous value: 33
+(2) Result: 23
+First lock
+First unlock
+Second lock
+Second unlock

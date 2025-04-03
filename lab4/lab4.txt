@@ -1,0 +1,5 @@
+# ./lab4
+Timer
+Thread will be executed for 20 seconds
+Thread 2 executes for more than 10 seconds
+Thread 2 is finished

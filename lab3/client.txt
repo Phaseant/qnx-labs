@@ -1,0 +1,27 @@
+# ./client
+Client started
+Enter server PID:
+4874278
+coid=3
+
+Enter your request (enter 'exit' for exit)
+abcd
+Your message: abcd
+Received response: 'Reversed message: 'dcba''
+
+Enter your request (enter 'exit' for exit)
+
+Your message:
+Received response: 'Reversed message: '''
+
+Enter your request (enter 'exit' for exit)
+абвгд
+Your message: абвгд
+Received response: 'Reversed message: 'дгвба''
+
+Enter your request (enter 'exit' for exit)
+1234
+Your message: 1234
+Received response: 'Reversed message: '4321''
+
+Enter your request (enter 'exit' for exit)

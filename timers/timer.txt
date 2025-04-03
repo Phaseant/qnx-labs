@@ -1,0 +1,8 @@
+# ./timer
+Tick.
+Tick.
+Tick.
+Tick.
+Tick.
+Tick.
+Tick.
