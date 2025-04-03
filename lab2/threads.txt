@@ -1,0 +1,9 @@
+# ./threads
+Thread 1: started execution. n = 5
+Thread 1: Message from the first thread
+
+Thread 2: started execution. n = 10
+Thread 2: Message from the second thread
+
+Thread 1: finished execution
+Thread 2: finished execution

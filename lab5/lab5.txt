@@ -1,0 +1,8 @@
+# ./lab5
+Program start
+Start waiting for barrier in 1 thread
+Start waiting for barrier in 2 thread
+Start waiting for barrier in main
+Finish waiting for barrier in 2 thread
+Finish waiting for barrier in main
+Finish waiting for barrier in 1 thread

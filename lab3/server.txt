@@ -1,0 +1,14 @@
+# ./server
+Server started
+Channel ID: 1
+Pid: 4874278
+Received request: 'abcd'
+Sent response: 'Reversed message: 'dcba''
+Received request: ''
+Sent response: 'Reversed message: '''
+Received request: 'абвгд'
+Sent response: 'Reversed message: 'дгвба''
+Received request: '1234'
+Sent response: 'Reversed message: '4321''
+Received request: ''
+Sent response: 'Reversed message: '''

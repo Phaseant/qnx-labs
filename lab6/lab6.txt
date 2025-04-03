@@ -1,0 +1,34 @@
+# ./lab6
+Start
+Eto potrebitel
+W1
+W2
+Eto proizvoditel
+proizvoditel polychil dannie ot h/w = 0
+Wp1
+Wp3
+W3
+dannie ot proizv = 1
+W1
+W2
+proizvoditel polychil dannie ot h/w = 1
+Wp1
+Wp3
+W3
+dannie ot proizv = 2
+W1
+W2
+proizvoditel polychil dannie ot h/w = 2
+Wp1
+Wp3
+W3
+dannie ot proizv = 3
+W1
+W2
+proizvoditel polychil dannie ot h/w = 3
+Wp1
+Wp3
+W3
+dannie ot proizv = 4
+W1
+W2
